@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Surveyor;
+    src: url(sansation_light.woff);
+}
+
+h1 {
+  font-size: 26px;
+}
+
+.highlight-font {
+  font-family: 'sailec';
+  color: #F6C4BD;
+  text-transform: uppercase;
+}
+
+.header {
+  width: 60%;
+  margin-left: 20%;
+}
